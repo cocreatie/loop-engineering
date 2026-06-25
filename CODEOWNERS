@@ -1,0 +1,8 @@
+# Default owner for review routing (solo maintainer today).
+* @cocreatie
+
+/patterns/ @cocreatie
+/tools/ @cocreatie
+/.github/ @cocreatie
+/docs/ @cocreatie
+/starters/ @cocreatie
